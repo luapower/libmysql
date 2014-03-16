@@ -1,0 +1,5 @@
+libmysql 6.1.1 from http://downloads.mysql.com/archives/c-c/ (GPL License)
+
+libmysql wasn't built from source.
+
+6.1.3 dll doesn't work on WinXP.
