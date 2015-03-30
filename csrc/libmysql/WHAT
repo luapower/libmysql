@@ -1,4 +1,5 @@
 libmysql 6.1.1 from http://downloads.mysql.com/archives/c-c/ (GPL License)
+requires: libstdcxx
 
 NOTES:
 	- libmysql wasn't built from source.
