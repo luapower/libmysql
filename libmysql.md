@@ -1,5 +1,4 @@
 ---
-project: libmysql
 tagline: MySQL client library
 ---
 
